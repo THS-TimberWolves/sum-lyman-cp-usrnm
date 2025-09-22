@@ -1,4 +1,4 @@
-a = int(input("Enter a number:"))
+a = int(input())
 count = 1
 total = 1
 while count < a:
